@@ -13,7 +13,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/V2RjJz7BiVEFfXpzVe/giphy.gif" width="100"/>
 </div>
 
 
