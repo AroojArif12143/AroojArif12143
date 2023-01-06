@@ -1,3 +1,4 @@
+Click here to view my channel
 <div id="badges">
   <a href="https://www.youtube.com/watch?v=cBgxSjT9JfY&list=PLPtCmQkDE7zOR9lIURjNJRypDiqPMg3Fb">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
