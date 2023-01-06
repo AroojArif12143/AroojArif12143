@@ -11,9 +11,10 @@
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
 </div>
 
-
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/V2RjJz7BiVEFfXpzVe/giphy.gif" width="100"/>
 </div>
 
-
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif" width="100"/>
+</div>
